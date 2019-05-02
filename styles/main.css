@@ -1,0 +1,12 @@
+
+.modal.show {
+  display: block;
+}
+
+.withData {
+  display:none;
+}
+
+.withoutData {
+  display:none;
+}
